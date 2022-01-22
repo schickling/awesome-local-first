@@ -1,4 +1,4 @@
-# Awesome local-first
+# Awesome Local-first
 A collection of awesome local-first projects and related things
 
 ## Projects
