@@ -10,4 +10,3 @@ A list of projects built following the [local-first concept](https://www.inkands
 ## Articles
 
 - [Local-first software](https://www.inkandswitch.com/local-first/) - Great article by [Ink & Switch](https://www.inkandswitch.com)
-- 
