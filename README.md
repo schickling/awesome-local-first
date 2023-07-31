@@ -7,6 +7,7 @@ A collection of awesome local-first projects and related things
 A list of projects built following the [local-first concept](https://www.inkandswitch.com/local-first/)
 
 - [Actual](https://actualbudget.com) - Actual is a super fast privacy-focused app for managing your finances
+- [Volon](https://github.com/danielgolden/volon) - Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
 
 ## Articles
 
