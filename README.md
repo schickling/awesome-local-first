@@ -8,6 +8,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 
 - [Actual](https://actualbudget.com) - Actual is a super fast privacy-focused app for managing your finances
 - [Volon](https://github.com/danielgolden/volon) - Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+- [bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
 
 ## Articles
 
