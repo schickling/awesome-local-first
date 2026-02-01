@@ -27,6 +27,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 *Libraries*
 
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [Contextual Engineering](https://github.com/tflux2011/contextual-engineering-patterns) - A Python framework for building offline-first AI agents using SQLite queues and hybrid routing.
 - [hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
 
 *Social Networks*
