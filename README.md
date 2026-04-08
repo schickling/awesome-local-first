@@ -35,3 +35,4 @@ A list of projects built following the [local-first concept](https://www.inkands
 ## Related projects
 - [zhongkechen/awesome-local-first](https://github.com/zhongkechen/awesome-local-first): Awesome Local-First Software
 - [radical-data/awesome-local-first](https://github.com/radical-data/awesome-local-first): Curated list of projects centering local storage and offline operability.
+- [BrainDB](https://github.com/beckfexx/BrainDB) — Local-first AI memory & orchestrator. SQLite + FTS5, hybrid search, multi-agent coordination, nightly self-learning. No cloud required.
