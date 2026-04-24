@@ -28,6 +28,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
+- [LocoPilot](https://github.com/bobfromarcher/LocoPilot) - Vision, browser, and desktop control for any local LLM. 35 endpoints, zero cloud, one file.
 
 *Social Networks*
 - [Secure Scuttlebutt](https://scuttlebutt.nz/) - a peer-to peer communication protocol, mesh network, and self-hosted social media ecosystem
