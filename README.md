@@ -23,6 +23,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+- [mutxt.com](https://mutxt.com): a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
   
 *Libraries*
 
