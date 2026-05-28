@@ -23,6 +23,8 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+- [Invoco](https://selfloom.github.io/invoco-demo/): Free freelancer invoice generator with built-in time tracker. Single HTML file, all data stored locally in your browser, works offline, no signup required.
+- [TabFlow](https://selfloom.github.io/tabflow/): AI-organized bookmark dashboard replacing your new tab page. All data stored locally (localStorage), no cloud sync, no tracking, works as Chrome extension or standalone web app.
   
 *Libraries*
 
