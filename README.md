@@ -5,7 +5,7 @@ A collection of awesome local-first projects including offline-first and collabo
 ## What is local first?
 *Articles*
 - [Local-first software - You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/), Ink & Switch **|** [PDF Version](https://martin.kleppmann.com/papers/local-first.pdf) by Martin Kleppmann
-
+ 
 *Videos*
 - [Automerge: Making servers optional for real-time collaboration](https://www.youtube.com/watch?v=PHz17gwiOc8), Martin Kleppmann
 
@@ -28,6 +28,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
+- [ZamSync](https://github.com/Etoile-Bleu/ZamSync) - Offline-first WAL sync engine in Rust for unreliable networks. HLC ordering, Version Vector deduplication, mTLS, WAL encryption at rest. Designed for clinics on 2G.
 
 *Social Networks*
 - [Secure Scuttlebutt](https://scuttlebutt.nz/) - a peer-to peer communication protocol, mesh network, and self-hosted social media ecosystem
