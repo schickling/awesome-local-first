@@ -23,6 +23,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+- [Quota Dashboard](https://github.com/ryan-knowone/quota-dashboard): Local-only web dashboard for AI subscription quota across Claude Code Max, Kimi, and Z.ai. Runs a small local Node server so tokens stay on the user's machine and are never persisted.
   
 *Libraries*
 
