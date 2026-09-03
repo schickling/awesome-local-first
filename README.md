@@ -22,7 +22,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [Bangle-io](https://github.com/bangle-io/bangle-io): A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
-- [Vitra](https://vitrahealth.app): Local-first desktop companion for Oura Ring owners. Syncs your history once through the official API, then every calculation runs on your own machine; no account, no vendor cloud, full JSON/CSV/PDF export.
+- [Vitra](https://vitrahealth.app): Local-first desktop companion for Oura Ring owners. Imports your history and keeps it synced through the official API, and every calculation runs on your own machine; no Vitra account, no vendor cloud, full JSON/CSV/PDF export.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
   
 *Libraries*
