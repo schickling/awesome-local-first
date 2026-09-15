@@ -18,6 +18,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 *Projects*
 
 - [Actual](https://actualbudget.com): Actual is a super fast privacy-focused app for managing your finances
+- [BusinessOS](https://businessos.biz): Offline-first, zero-knowledge-encrypted business platform — invoicing, expenses, cash flow forecasting, financial reports. Works fully offline as a PWA. Ships 40 [MIT-licensed calculators](https://github.com/ytinsta1741-ops/free-business-tools) (VAT, GST, MRR, CAC).
 - [AFFiNE](https://affine.pro): AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [Bangle-io](https://github.com/bangle-io/bangle-io): A web only WYSIWYG note taking app that saves notes locally in markdown format.
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
