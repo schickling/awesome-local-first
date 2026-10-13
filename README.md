@@ -23,6 +23,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+- [TokLens](https://github.com/MY-Final/TokLens): Local-first desktop analytics for AI coding clients. Aggregates token usage, models, sessions and trends from 12 clients including Codex, Claude Code and OpenCode into one dashboard, with read-only collection, no telemetry and a local SQLite store.
   
 *Libraries*
 
