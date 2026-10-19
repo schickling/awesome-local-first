@@ -17,6 +17,7 @@ A list of projects built following the [local-first concept](https://www.inkands
 
 *Projects*
 
+- [Tidify](https://tidify-app.netlify.app): Local-first in-browser CSV & Excel data cleaner (deduplication, ISO date standardization, contact normalization, and typo fixing with zero server uploads) — [Source](https://github.com/D0ctorX/tidy)
 - [Actual](https://actualbudget.com): Actual is a super fast privacy-focused app for managing your finances
 - [AFFiNE](https://affine.pro): AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [Bangle-io](https://github.com/bangle-io/bangle-io): A web only WYSIWYG note taking app that saves notes locally in markdown format.
